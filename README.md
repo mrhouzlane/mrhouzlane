@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&background=911717E3&center=true&vCenter=true&width=435&lines=Keep+Learning+" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -9,9 +9,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrhouzlane&theme=sunset-gradient&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mrhouzlane&theme=highcontrast&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhouzlane&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhouzlane&layout=compact&theme=sunset-gradient&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 

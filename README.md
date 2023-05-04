@@ -1,13 +1,13 @@
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhouzlane&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhouzlane&show_icons=true&theme=merko)
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrhouzlane&theme=cobalt&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrhouzlane&theme=merko&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhouzlane&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhouzlane&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
